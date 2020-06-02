@@ -8,7 +8,7 @@ Here is the bibtex citation format:
 @article{facialanalysis2020,
 author  = {Tkachenko, Yegor and Jedidi, Kamel},
 title   = {{What personal information can a consumer facial image reveal? Implications for market intelligence and consumer privacy}},
-journal={Available at SSRN: },
+journal={Available at SSRN 3616470},
 year    = {2020}}
 ```
 
