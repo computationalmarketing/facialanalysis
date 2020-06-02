@@ -1,6 +1,6 @@
 ## Facial Analysis
 
-This repository contains code and data for the working paper
+This repository contains code and data for the [working paper](https://ssrn.com/abstract=3616470)
 `Yegor Tkachenko, Kamel Jedidi. What Personal Information Can a Consumer Facial Image Reveal? Implications for Marketing ROI and Consumer Privacy (2020).`
 
 Here is the bibtex citation format:
