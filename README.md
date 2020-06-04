@@ -17,4 +17,4 @@ Study 1 participants have consented to the public release of their data (see `./
 Study 2 is subject to the material transfer agreement with the company that provided the data -- the materials are available from authors upon consent to a non-disclosure agreement. To request this data, please complete the following form: [link](https://app.getparampara.com/s/b4323991-fbb1-4e84-9bab-b6bf4cc054c7).
 
 
-Copyright (C) 2020 Yegor Tkachenko, Kamel Jedidi
+Copyright (C) 2020 [Yegor Tkachenko](https://yegortkachenko.com), [Kamel Jedidi](https://www8.gsb.columbia.edu/cbs-directory/detail/kj7)
