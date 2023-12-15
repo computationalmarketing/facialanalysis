@@ -1,5 +1,8 @@
 ## Facial Analysis
 
+- New paper is live here: https://www.nature.com/articles/s41598-023-42054-9
+- New GitHub repository: https://github.com/computationalmarketing/facial-analysis-megastudy
+
 This repository contains code and data for the [working paper](https://ssrn.com/abstract=3616470)
 `Yegor Tkachenko, Kamel Jedidi. What Personal Information Can a Consumer Facial Image Reveal? Implications for Marketing ROI and Consumer Privacy (2020).`
 
