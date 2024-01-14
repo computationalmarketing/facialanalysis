@@ -1,6 +1,6 @@
 ## Facial Analysis
 
-- New paper is live here: https://www.nature.com/articles/s41598-023-42054-9
+- Updated published paper is live here: https://www.nature.com/articles/s41598-023-42054-9
 - New GitHub repository: https://github.com/computationalmarketing/facial-analysis-megastudy
 
 This repository contains code and data for the [working paper](https://ssrn.com/abstract=3616470)
